@@ -17,17 +17,9 @@ body {
     transition: color 0.3s ease-in-out;
 }
 
-.bancroft {
-}
 
 .logo:hover {
     color: #007BFF;
 }
 
 
-
-@media (max-width: 768px) {
-    .logo {
-     
-    }
-}
