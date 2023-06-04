@@ -11,11 +11,17 @@
 </head>
 <body>
     <div class="container text-center">
-        
-          
-        <h1 class="logo2 mt-5 display-5">Predict, Understand, Track - With the Power of Machine Learning at</h1>
         <br>
+        
         <h1 class="bancroft logo mt-1 "><b><span id="type-text"></span><span id="cursor" class="blink">|</span></b></h1>
+
+        <div id="text" style="opacity: 0;">
+            <h1 class="logo3 mt-1 display-15"><i><span id="type-type"></span><span id="cursor2" class="blink">|</span></i></h1>
+        </div>
+        
+        <br>
+        <h1 class="logo2 mt-5 display-5">Predict, Understand, Track - Using the Power of Machine Learning</h1>
+        <br>
         <br>
         <style>
             @keyframes blink {
@@ -24,20 +30,47 @@
                 100% {opacity: 1;}
             }
             
+            @keyframes show {
+                0% {opacity: 0}
+                50% {opacity: .5}
+                100% {opacity: 1}
+            }
+
+            #hidden {
+                opacity: 0;
+            }
+
+            #show {
+                animation: show 2s;
+            }
+
             .blink {
                 animation: blink 1s infinite;
             }
             
-            .hidden {
-                opacity: 0;
+            .show {
+                opacity: 100;
             }
-  
-
         </style>
         <script>
+            var x = 0;
+            var ot_txt = 'expert solutions for biotech';
+            var speed = 120;
+
+            function tWriter2() {
+                if (x < ot_txt.length) {
+                    document.getElementById("type-type").innerHTML += ot_txt.charAt(x);
+                    x++;
+                    setTimeout(tWriter2, speed*.5);
+                }
+                else {
+
+                }
+            }
+
+
             var i = 0;
-            var txt = 'bancroft.ai'; /* The text to be typed */
-            var speed = 120; /* The speed/duration of the typing effect in milliseconds */
+            var txt = 'bancroft.ai'; /* The text to be typed */ /* The speed/duration of the typing effect in milliseconds */
           
             function typeWriter() {
               if (i < txt.length) {
@@ -46,16 +79,24 @@
                 setTimeout(typeWriter, speed);
               } else {
                 // Start blinking the cursor after typing has finished
-                startBlinkingCursor();
+                
+                document.getElementById("cursor").style.animation = "none";
+                document.getElementById("cursor").style.display = "none";
+                document.getElementById("text").style.opacity = 1; 
+                x = 0;
+                ot_txt = 'expert solutions for biotech';
+                speed = 120;
+                setTimeout(tWriter2, 100);
               }
             }
-          
-            function startBlinkingCursor() {
-              document.getElementById("cursor").className = 'blink';
-            }
+        
           
             // Start typing effect once page loads
             window.onload = setTimeout(typeWriter, 800);
+
+
+
+            
           </script>
           
         

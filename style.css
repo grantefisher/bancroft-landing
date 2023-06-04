@@ -17,9 +17,12 @@ body {
     transition: color 0.3s ease-in-out;
 }
 
-
-.logo:hover {
-    color: #007BFF;
+.logo3 {
+    font-size: 1.8em;
+    font-weight: 5;
+    color: #7e7e7e;
+    text-transform: lowercase;  
+    transition: color 1s ease-in-out;
 }
 
 
