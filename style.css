@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; /* This is to reset default browser margin */
+    padding: 0; /* This is to reset default browser padding */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes the container take up the full viewport height */
+    width: 100vw; /* This makes the container take up the full viewport width */
+    flex-direction: column; /* aligns the items vertically */
+}
+
+.logo {
+    font-size: 3em;
+    color: #333;
+    text-transform: lowercase;
+    transition: color 0.3s ease-in-out;
+}
+
+.bancroft {
+}
+
+.logo:hover {
+    color: #007BFF;
+}
+
+
+
+@media (max-width: 768px) {
+    .logo {
+        font-size: 1.5em;
+    }
+}
