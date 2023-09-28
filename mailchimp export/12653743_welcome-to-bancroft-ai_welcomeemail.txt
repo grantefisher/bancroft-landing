@@ -1,0 +1,24 @@
+*|MC_PREVIEW_TEXT|*
+
+
+** Pharma Intelligence for Industry Leaders
+------------------------------------------------------------
+
+
+** Welcome!
+------------------------------------------------------------
+
+Here at bancroft our goal is to empower pharmaceutical investors, business development teams, and executives with the data insights and analytics crucial to making informed decisions. Our web-based suite of tools offers precise forecasting, robust analytics, and cutting-edge AI tooling to navigate the complexities of pharma.
+
+Stay tuned, we’ll be launching soon. For now, enjoy our newsletter.
+
+Thanks,
+
+bancroft ai
+
+https://linkedin.com/company/bancroft-ai/
+
+Copyright (C) *|CURRENT_YEAR|* *|LIST:COMPANY|*. All rights reserved.
+
+Want to change how you receive these emails?
+You can update your preferences (*|UPDATE_PROFILE|*) or unsubscribe (*|UNSUB|*)

@@ -1,0 +1,53 @@
+*|MC_PREVIEW_TEXT|*
+
+
+** Pharma Intelligence for Industry Leaders
+------------------------------------------------------------
+
+
+** Gracell's Clinical Trial, Ionis-Roche Partnership, VBI's Vaccine Progress
+------------------------------------------------------------
+
+Post-market Yesterday
+
+Gracell Biotechnologies has dosed its first patient in a Phase 1b/2 clinical trial evaluating GC012F for treating relapsed/refractory multiple myeloma. This marks a significant milestone in their clinical development pipeline.
+
+Galecto has announced plans to explore strategic alternatives. This could potentially result in significant changes to the company's future operations and strategic direction.
+
+Rocket Pharmaceuticals will participate in the Chardan 7th Annual Genetic Medicines Conference. This participation demonstrates the company's ongoing commitment to engaging in industry dialogues.
+
+MEI Pharma has reported its fiscal year 2023 results and operational highlights. The report details the company's performance and gives insight into its future plans.
+
+Adverum Biotechnologies has announced positive Aflibercept protein level data from the LUNA Phase 2 trial. This positive data suggests progress in the company's clinical development.
+
+Cardiff Oncology has announced positive clinical data in pancreatic cancer and small cell lung cancer. The data showcases the potential of Onvansertib monotherapy as an effective treatment option.
+
+Pre-market Today
+
+IDEAYA Biosciences has received fast track designation for IDE161. This designation could significantly expedite the development and review process for the drug.
+
+Ionis has entered an agreement with Roche for two novel RNA-targeted programs for Alzheimer's disease and Huntington's disease. This collaboration could potentially lead to breakthroughs in these two neurological diseases.
+
+Precision BioSciences has received a U.S. patent allowance covering PBGENE-PMM for m.3243-associated mitochondrial diseases. This patent reinforces the company's intellectual property portfolio.
+
+VBI Vaccines' pan-coronavirus vaccine candidate, VBI-2901, has induced broad and durable protective titers against variants of concern. This marks a significant step forward in the fight against COVID-19.
+
+Viatris and Ocuphire Pharma have announced FDA approval of RYZUMVl™ (Phentolamine Ophthalmic Solution) 0.75% Eye Drops for the treatment of pharmacologically-induced Mydriasis. This approval expands the treatment options available to patients.
+
+Nektar Therapeutics has announced a new clinical study collaboration with Cellular Biomedicine Group Inc. to evaluate NKTR-255 in combination with C-TIL051 in advanced non-small cell lung cancer. This collaboration could potentially lead to new treatment options for patients with this type of cancer.
+
+Ligand has acquired assets of Novan, Inc. for $12.2 Million. This acquisition expands Ligand's portfolio and capabilities.
+
+Evofem has announced that Padagis will not seek FDA approval to market a generic version of Phexxi® until Evofem's Phexxi patents expire. This announcement safeguards Evofem's market position in the interim.
+Add button text ()
+Facebook icon Instagram icon Twitter icon
+
+Copyright (C) *|CURRENT_YEAR|* *|LIST:COMPANY|*. All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|**|LIST:DESCRIPTION|**|END:IF|*
+
+Our mailing address is:
+*|IFNOT:ARCHIVE_PAGE|**|LIST_ADDRESS|**|END:IF|*
+
+Want to change how you receive these emails?
+You can update your preferences (*|UPDATE_PROFILE|*) or unsubscribe (*|UNSUB|*)
+http://eepurl.com/isHqIY
