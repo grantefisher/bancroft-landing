@@ -1,18 +1,32 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     margin: 0; /* This is to reset default browser margin */
     padding: 0; /* This is to reset default browser padding */
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* This makes the container take up the full viewport height */
-    width: 100vw; /* This makes the container take up the full viewport width */
+    height: 100%; /* This makes the container take up the full viewport height */
+    width: 100%; /* This makes the container take up the full viewport width */
     flex-direction: column; /* aligns the items vertically */
+    background-color: rgb(242, 242, 242);
+}
+
+.max-window {
+    width: 100%;
+}
+
+.bancroft-banner {
+    margin-top: 120px;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: rgb(100, 120, 245);
 }
 
 .logo {
+    margin: 0;
+    padding: 0;
     font-size: 3em;
-    color: #333;
+    color: #ffffff;
     text-transform: lowercase;
     transition: color 0.3s ease-in-out;
 }
@@ -20,9 +34,21 @@ body {
 .logo3 {
     font-size: 1.8em;
     font-weight: 5;
-    color: #7e7e7e;
+    color: #ffffff;
     text-transform: lowercase;  
     transition: color 1s ease-in-out;
 }
 
+.logo2 {
+    margin: 0;
+    opacity: .7;
+    font-size: 3.1em;
+    padding: 0px 20px;
+}
+
+.logo2-sub {
+    font-weight: 300;
+    font-size: 1.8em;
+    opacity: .7;
+}
 
